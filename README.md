@@ -18,5 +18,5 @@ This component is created using React and is set up with Vite as the build tool.
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bharat1056/otp_generator.git
    ```
